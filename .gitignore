@@ -1,0 +1,5 @@
+# ignore the executable , output files 
+
+*.o
+
+app
