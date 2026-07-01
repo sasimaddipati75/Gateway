@@ -1,15 +1,18 @@
 # creating the make file for the project 
 
 TARGET = app
-SRC = src/main.c
+SRC_MAIN = src/main.c
 
-$(TARGET) : main.o
-	gcc main.o -o $(TARGET)
+$(TARGET) : main.o config.o
+	gcc main.o config.o -o $(TARGET)
 	
-main.o : $(SRC)
-	gcc -c $(SRC)
+main.o : $(SRC_MAIN)
+	gcc -Iinclude -c $(SRC_MAIN)
+
+config.o : src/config.c
+	gcc -Iinclude -c src/config.c	
 	
 clean : 
-	rm -f main.o $(TARGET)	
+	rm -f main.o config.o $(TARGET)	
 		
 	
