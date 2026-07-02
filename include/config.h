@@ -23,4 +23,4 @@ typedef struct
 
 } Config; 
 
-void parse_gateway_configure(void);
+Config parse_gateway_configure(void);
