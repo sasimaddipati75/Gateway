@@ -2,7 +2,7 @@
 #include<logger.h>
 #include<stdarg.h>
 #include<time.h>
-static *logger_file_pointer ;
+static FILE *logger_file_pointer ;
 
 void logger_init(){
     
@@ -35,6 +35,8 @@ void logger_log(LogLevel level, const char *format, ...)
     vfprintf(logger_file_pointer, format, args);
     
     fprintf(logger_file_pointer, "\n\n");
+    
+    fflush(logger_file_pointer);
 
     va_end(args);
 }
