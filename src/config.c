@@ -2,6 +2,9 @@
 #include<config.h>
 #include<string.h>
 #include<stdlib.h>
+#include<logger.h>
+
+Config conf;
 
 void function_to_lower_string(char *a , int len ){
    for(int i = 0 ; i < len ; i++ ) {
@@ -9,11 +12,10 @@ void function_to_lower_string(char *a , int len ){
    }
 }
 
-Config parse_gateway_configure(){
+void parse_gateway_configure(){
        
        FILE *file_pointer = fopen("config/gateway.conf","r");
-       Config conf = {0} ;
-       if(file_pointer == NULL ){ printf("Error in opening the file "); return conf ;  }
+       if(file_pointer == NULL ){ logger_log(LOG_INFO,"opening gateway.conf is failed");  return  ;  }
         
        char buf[100];
        while(fgets(buf,100,file_pointer)!=NULL) {    
@@ -48,6 +50,16 @@ Config parse_gateway_configure(){
              }
        }
        fclose(file_pointer);
-       return conf ; 
+       return ; 
 }
+
+
+
+
+
+
+
+
+
+
 

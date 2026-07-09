@@ -1,12 +1,13 @@
 #include<unistd.h>
 #include<stdlib.h>
+#include<sys/stat.h>
 void daemon_init(){
         if(fork() == 0 ) {
                  setsid();
                  close(STDIN_FILENO);
                  close(STDOUT_FILENO);
                  close(STDERR_FILENO);
-                 chdir("/");
+               //  chdir("/");
                  umask(0);
                  return ; 
         }

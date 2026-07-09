@@ -21,6 +21,8 @@ typedef struct
     int run_as_daemon;
     char pid_file[128];
 
-} Config; 
+} Config;  
 
-Config parse_gateway_configure(void);
+extern Config conf;
+
+extern void parse_gateway_configure(void);

@@ -2,6 +2,7 @@
 #include<logger.h>
 #include<stdarg.h>
 #include<time.h>
+#include<string.h>
 static FILE *logger_file_pointer ;
 
 void logger_init(){
