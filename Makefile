@@ -3,8 +3,8 @@
 TARGET = app
 SRC_MAIN = src/main.c
 
-$(TARGET) : main.o config.o logger.o daemon.o meter.o gateway.o
-	gcc main.o config.o logger.o daemon.o meter.o gateway.o -o $(TARGET) -pthread
+$(TARGET) : main.o config.o logger.o daemon.o meter.o gateway.o polling.o
+	gcc main.o config.o logger.o daemon.o meter.o gateway.o polling.o -o $(TARGET) -pthread
 	
 main.o : $(SRC_MAIN)
 	gcc -Iinclude -c $(SRC_MAIN)
@@ -24,7 +24,9 @@ meter.o : src/meter.c
 gateway.o : src/gateway.c
 	gcc -Iinclude -c src/gateway.c
 
+polling.o : src/polling.c
+	gcc -Iinclude -c src/polling.c
 clean : 
-	rm -f main.o config.o logger.o daemon.o meter.o $(TARGET)	
+	rm -f main.o config.o logger.o daemon.o meter.o polling.o $(TARGET)	
 		
 	

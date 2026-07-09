@@ -1,245 +1,167 @@
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  Gateway is running..... 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  daemon process is created 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  Gateway is instialized.....  
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:19 2026
+Thu Jul  9 11:00:34 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:24 2026
+Thu Jul  9 11:00:35 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:29 2026
+Thu Jul  9 11:00:36 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:34 2026
+Thu Jul  9 11:00:37 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:39 2026
+Thu Jul  9 11:00:38 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  Gateway application is running
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  meter found in 1
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:44 2026
+Thu Jul  9 11:00:39 2026
  INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
 
 
-Thu Jul  9 10:20:44 2026
- INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:49 2026
- INFO  Gateway application is running
-
-Thu Jul  9 10:20:49 2026
- INFO  meter found in 1
-
-Thu Jul  9 10:20:49 2026
- INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:49 2026
- INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:49 2026
- INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:49 2026
- INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:49 2026
- INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:54 2026
- INFO  Gateway application is running
-
-Thu Jul  9 10:20:54 2026
- INFO  meter found in 1
-
-Thu Jul  9 10:20:54 2026
- INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:54 2026
- INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:54 2026
- INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:54 2026
- INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:54 2026
- INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:59 2026
- INFO  Gateway application is running
-
-Thu Jul  9 10:20:59 2026
- INFO  meter found in 1
-
-Thu Jul  9 10:20:59 2026
- INFO  id = 1001 , ip = 192.168.1.101 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:59 2026
- INFO  id = 1002 , ip = 192.168.1.102 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:59 2026
- INFO  id = 1003 , ip = 192.168.1.103 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:59 2026
- INFO  id = 1004 , ip = 192.168.1.104 , port = 5000 , status = 0 
-
-
-Thu Jul  9 10:20:59 2026
+Thu Jul  9 11:00:39 2026
  INFO  id = 1005 , ip = 192.168.1.105 , port = 5000 , status = 0 
 
 
